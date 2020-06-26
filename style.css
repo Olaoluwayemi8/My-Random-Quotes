@@ -1,0 +1,20 @@
+.coats {
+    width: 50vw;
+    height: 20vh;
+    background-color: azure;
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button {
+    background-color: black;
+    border: blanchedalmond;
+    margin-top: 15px;
+    border-radius: 5px;
+    color: blanchedalmond;
+    height: 25px;
+}
